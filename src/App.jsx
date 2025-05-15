@@ -64,7 +64,7 @@ function App() {
                 </Link>
                 <Link to="/weather" className="task-card">
                   <img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/8b934f7ddd08f5d149bdc2139728672f8898546c" alt="weather" />
-                  <p>capucino</p>
+                  <p>weather app</p>
                 </Link>
                  <Link to="/imdb" className="task-card">
                   <img src="https://images.pexels.com/photos/5082566/pexels-photo-5082566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="imdb" />
