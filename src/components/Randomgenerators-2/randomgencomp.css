@@ -1,0 +1,110 @@
+/* Randomgencom.css */
+
+/* General Styles */
+.container {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-size: 2rem;
+    transition: transform 0.3s ease;
+}
+
+h6, blockquote {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* Random Color Generator */
+.color-generator {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.8s ease-in-out;
+}
+
+.color-generator h1 {
+    transform: scale(1.05);
+}
+
+.color-generator p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+}
+
+/* Random Quote Generator */
+.quote-generator {
+    padding: 40px;
+    text-align: center;
+    background: #f2f2f2;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.quote-generator blockquote {
+    font-style: italic;
+    font-size: 1.4rem;
+    max-width: 700px;
+    margin: auto;
+    color: #333;
+}
+
+.quote-generator p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+/* Random Image Generator */
+.image-generator {
+    padding: 40px;
+    text-align: center;
+    background: #e3e3e3;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.image-generator img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.4s ease-in-out;
+}
+
+/* Default Image Fallback */
+img.error-image {
+    content: url('https://via.placeholder.com/400x300?text=Image+Not+Found');
+}
+
+/* Button Styles */
+button.generate-color {
+    background-color: #222;
+    color: white;
+}
+
+button.generate-quote {
+    background-color: #444;
+    color: white;
+}
+
+/* Keyframe for FadeIn Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

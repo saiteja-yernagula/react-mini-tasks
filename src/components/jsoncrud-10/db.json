@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Chocolate Ice Cream",
+      "category": "Ice Cream",
+      "price": 80,
+      "image": "https://images.pexels.com/photos/1739347/pexels-photo-1739347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Rich and creamy chocolate-flavored delight."
+    },
+    {
+      "id": "2",
+      "name": "Vanilla Shake",
+      "category": "Shake",
+      "price": 100,
+      "image": "https://images.pexels.com/photos/2693404/pexels-photo-2693404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Classic vanilla shake topped with whipped cream."
+    },
+    {
+      "id": "3",
+      "name": "Strawberry Smoothie",
+      "category": "Smoothie",
+      "price": 120,
+      "image": "https://images.pexels.com/photos/3625372/pexels-photo-3625372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Fresh strawberries blended with yogurt and honey."
+    },
+    {
+      "id": "4",
+      "name": "Butterscotch Ice Cream",
+      "category": "Ice Cream",
+      "price": 90,
+      "image": "https://images.pexels.com/photos/2156698/pexels-photo-2156698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Creamy butterscotch ice cream with caramel swirls."
+    },
+    {
+      "id": "5",
+      "name": "Oreo Shake",
+      "category": "Shake",
+      "price": 130,
+      "image": "https://images.pexels.com/photos/2940642/pexels-photo-2940642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Blended Oreos with vanilla ice cream and milk."
+    },
+    {
+      "id": "6",
+      "name": "Mango Smoothie",
+      "category": "Smoothie",
+      "price": 110,
+      "image": "https://images.pexels.com/photos/1251210/pexels-photo-1251210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Tropical mangoes with Greek yogurt and honey."
+    },
+    {
+      "id": "7",
+      "name": "Blueberry Ice Cream",
+      "category": "Ice Cream",
+      "price": 95,
+      "image": "https://images.pexels.com/photos/1352273/pexels-photo-1352273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A burst of blueberries in every scoop."
+    },
+    {
+      "id": "8",
+      "name": "Cold Coffee Shake",
+      "category": "Shake",
+      "price": 115,
+      "image": "https://images.pexels.com/photos/4921528/pexels-photo-4921528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Chilled coffee blended with ice cream."
+    } ]
+}
