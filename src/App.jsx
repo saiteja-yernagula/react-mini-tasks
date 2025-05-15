@@ -58,6 +58,8 @@ function App() {
                   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/78/2f/0a/782f0a86-1907-2191-b511-bbcff47fbfa2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" alt="add to cart" />
                   <p>Ecart</p>
                 </Link>
+
+                
                 <Link to="/capucino" className="task-card">
                   <img src="https://www.waca.or.jp/en/wp-content/uploads/2021/02/cappuccino_03.jpeg" alt="capucino" />
                   <p>capucino</p>
